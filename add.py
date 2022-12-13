@@ -1,3 +1,4 @@
-def (a+b):
-	# create an  add function
-	return(a+b)
+# function that adds two things
+def add(a, b):
+    """adds a and b and returns result"""
+    return (a + b)
